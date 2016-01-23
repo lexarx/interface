@@ -1,5 +1,8 @@
 {
   "name": "interface",
   "version": "1.0.0",
-  "main": "interface.js"
+  "main": "interface.js",
+  "dependencies": {
+    "class": "github:lexarx/class"
+  }
 }
